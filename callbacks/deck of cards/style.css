@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: darkgreen;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 12px;
+}
+
+#card-div{
+    margin:20px;
+}
